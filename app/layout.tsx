@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: {
-    default: "Michael - Portfolio",
+    default: "Duy - Portfolio",
     template: "%s | Duy Nguyen",
   },
   description:
@@ -26,7 +26,7 @@ export const metadata = {
   authors: [{ name: "Duy Nguyen" }],
   creator: "Duy Nguyen",
   openGraph: {
-    title: "Michael - Portfolio",
+    title: "Duy - Portfolio",
     description: "Explore the projects and skills of Duy Nguyen.",
   },
   icons: {
