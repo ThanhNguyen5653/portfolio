@@ -352,3 +352,57 @@ textarea:hover {
 .fast-slide-right {
   animation: slideInRight 0.4s ease-out forwards;
 }
+
+.chat-input-container {
+  position: relative;
+  overflow: hidden; /* Important for pseudo-element border */
+}
+
+.chat-input-container.animate-rainbow-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 9999px; /* same as rounded-full */
+  padding: 2px; /* Border thickness */
+  background: conic-gradient(from var(--angle), #06b6d4, #3b82f6, #ec4899, #f59e0b, #84cc16, #06b6d4);
+  animation: spin 4s linear infinite;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  z-index: -1; /* Place behind the input field */
+}
+
+@property --angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes spin {
+  to {
+    --angle: 360deg;
+  }
+}
+
+.typing-cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1em;
+  background-color: currentColor;
+  animation: blink 1s infinite;
+  margin-left: 2px;
+  vertical-align: text-bottom;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}

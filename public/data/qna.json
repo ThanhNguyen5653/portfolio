@@ -1,0 +1,167 @@
+{
+  "portfolio_qna": [
+    {
+      "question": "What certifications does Duy have?",
+      "answer": "Based on what I see, Duy holds several industry-recognized certifications including CompTIA Security+, Microsoft Azure Fundamentals, Google IT Support Professional, and CS50. He's actively pursuing additional certifications through his Year Up program, which shows his commitment to continuous learning in the IT field."
+    },
+    {
+      "question": "What's Duy's educational background?",
+      "answer": "Duy is currently enrolled in Year Up United's intensive Information Technology certificate program, which he started in March 2025. This is a rigorous career development program that partners with 250+ corporations and includes college-level coursework, professional training, and a six-month internship. He's completed courses in Computer Hardware, Networking, Operating Systems, System Administration, and Cybersecurity."
+    },
+    {
+      "question": "Why did Duy get into tech?",
+      "answer": "From what I know about his background, Duy gravitated toward tech through his natural problem-solving abilities. In 2023, his younger brother needed a laptop for school, and Duy took the initiative to fix an old laptop from Microsoft that had been sitting unused for years, he was able to upgrade it's hardware and software allowing his brother to use it for school work and for gaming as well. This experience sparked his interest in technology, leading him to pursue a career in IT."
+
+    },
+    {
+      "question": "Tell me about Duy's technical projects.",
+      "answer": "Duy has worked on some impressive projects! He completed a Windows Endpoint Forensic CTF where he demonstrated advanced forensic skills using Sysinternals and Zimmerman tools, successfully finding all hidden artifacts and creating a comprehensive incident report. He also developed Curve.ai, an AI-powered learning platform using Next.js, Tailwind, and Claude AI that won 1st place out of 14 teams at a hackathon."
+    },
+    {
+      "question": "What programming languages does Duy know?",
+      "answer": "Duy is proficient in several programming languages including Python, C, TypeScript/JavaScript, HTML/CSS, and SQL. He's also experienced with modern frameworks like Next.js and Flask, showing he can work across both frontend and backend development."
+    },
+    {
+      "question": "Does Duy have any work experience?",
+      "answer": "Yes, Duy has demonstrated strong work ethic and problem-solving skills in his previous roles. As a delivery driver at Tweeds Dry Cleaning, he achieved 100% on-time delivery by troubleshooting technical issues independently. At Ross Retail, he provided excellent customer service to over 100 customers daily, maintaining a 4.9-star rating and contributing to a 99% sell-through rate during peak seasons."
+    },
+    {
+      "question": "What are Duy's strongest technical skills?",
+      "answer": "Based on his experience, Duy excels in technical support, information security, troubleshooting processes, and network infrastructure. He's particularly strong in cybersecurity, as evidenced by his Security+ certification and forensic CTF success. His hackathon win also demonstrates solid full-stack development capabilities."
+    },
+    {
+      "question": "Has Duy worked on any AI or machine learning projects?",
+      "answer": "Absolutely! Duy developed Curve.ai, an innovative AI-powered learning platform that generates dynamic mind maps and quizzes using Claude AI. This project showcased his ability to integrate cutting-edge AI technology with modern web development, and it won 1st place at a competitive hackathon."
+    },
+    {
+      "question": "What makes Duy stand out as a candidate?",
+      "answer": "Duy stands out for several reasons: he combines technical expertise with proven problem-solving abilities, has earned multiple industry certifications while actively learning, and has demonstrated leadership through winning competitive projects. His ability to troubleshoot complex issues independently and work effectively in teams makes him a well-rounded IT professional."
+    },
+    {
+      "question": "Is Duy experienced with cloud technologies?",
+      "answer": "Yes, Duy has foundational cloud knowledge through his Microsoft Azure Fundamentals certification. This shows he understands cloud computing principles and Microsoft's cloud platform, which is valuable for modern IT infrastructure and development work."
+    },
+    {
+      "question": "What's Duy's experience with cybersecurity?",
+      "answer": "Duy has strong cybersecurity foundations with his CompTIA Security+ certification and hands-on experience through forensic challenges. He successfully completed a Windows Endpoint Forensic CTF, demonstrating skills in threat detection, incident response, and vulnerability management. His coursework also covers cybersecurity principles extensively."
+    },
+    {
+      "question": "How does Duy handle teamwork and collaboration?",
+      "answer": "Duy excels at collaboration, as shown in his hackathon project where he worked effectively with team members to create one of only three functional projects. He organized the design process into proper stages and created effective production plans. His retail experience also demonstrates his ability to coordinate with customers and team members to achieve excellent results."
+    },
+    {
+      "question": "What development frameworks is Duy familiar with?",
+      "answer": "Duy has hands-on experience with modern web development frameworks including Next.js for React-based applications and Flask for Python web development. He's also proficient with Tailwind CSS for styling, showing he can work with current industry-standard tools."
+    },
+    {
+      "question": "Does Duy have any leadership experience?",
+      "answer": "Yes, Duy has demonstrated strong leadership through his experience in the Year Up United program. He consistently stepped up and advocated for his peers, gaining visibility and respect throughout the program—not just in the Seattle area, but across the entire Year Up United network. One notable example of his leadership was during a student ambassador meeting, where he took the initiative to advocate on behalf of all fellow ambassadors by asking management to create certificates recognizing their contributions and leadership. This moment highlighted not only his initiative and advocacy skills but also his popularity and influence within the program."
+    },
+    {
+      "question": "What's Duy's approach to problem-solving?",
+      "answer": "Duy’s approach to problem-solving involves breaking down complex issues into smaller, manageable steps. This method allows him to work more efficiently and stay organized throughout the process. By focusing on smaller tasks, he's able to maintain clarity, track progress more easily, and ultimately deliver better, more thorough results."
+    },
+    {
+      "question": "Is Duy familiar with Microsoft technologies?",
+      "answer": "Absolutely! Duy is proficient with Microsoft Office Suites and holds a Microsoft Azure Fundamentals certification. His technical skills and certifications show he's well-versed in Microsoft's ecosystem, which is valuable for enterprise environments."
+    },
+    {
+      "question": "What kind of internship experience will Duy have?",
+      "answer": "Through his Year Up program, Duy will complete a six-month internship with one of their 250+ corporate partners. This provides him with real-world, hands-on experience in professional IT environments, bridging the gap between his technical training and industry practice."
+    },
+    {
+      "question": "How does Duy stay current with technology trends?",
+      "answer": "Duy demonstrates continuous learning through his active certification pursuits and participation in competitive events like hackathons and CTF challenges. His choice to integrate cutting-edge AI technology in his projects shows he stays current with emerging trends and isn't afraid to experiment with new technologies."
+    },
+    {
+      "question": "What's Duy's experience with databases?",
+      "answer": "Duy has SQL experience, which indicates he understands database fundamentals and can work with relational databases. Combined with his full-stack development experience, he can handle data storage and retrieval for web applications effectively."
+    },
+    {
+      "question": "Where is Duy located and is he available for work?",
+      "answer": "Duy is located in Renton, Washington. He's currently completing his Year Up program which runs through 2025, including a six-month internship component. Based on his active learning and project development, he appears to be preparing for full-time opportunities in the IT field."
+    },
+    {
+      "question": "What motivated Duy to pursue cybersecurity?",
+      "answer": "From what I can see, Duy was drawn to cybersecurity through his natural analytical mindset and problem-solving abilities. He saw the importance of protecting systems and data, especially after his personal experience with a friend, I'm sure he would love to share more about that."
+    },
+    {
+      "question": "How technically proficient is Duy with system administration?",
+      "answer": "Duy has solid system administration foundations through his Year Up coursework, which specifically covers System Administration alongside networking and operating systems. His forensic work with Sysinternals tools and ability to troubleshoot hardware connectivity issues demonstrates hands-on experience with system-level operations and diagnostics."
+    },
+    {
+      "question": "What's Duy's experience with network troubleshooting?",
+      "answer": "Duy has demonstrated practical networking skills throughout his time at Year Up United. He took the initiative to create a subnetting cheat sheet to help his peers better understand key networking concepts, showcasing both his technical knowledge and willingness to support others. Additionally, his notes page includes a detailed write-up on a Cisco Packet Tracer lab, which highlights his proficiency and hands-on experience with computer networking and network troubleshooting tools."
+    },
+    {
+      "question": "Has Duy worked with any specific forensic tools?",
+      "answer": "Yes, Duy has hands-on experience with professional forensic tools including Sysinternals and Zimmerman tools. He used these during his Windows Endpoint Forensic CTF challenge to successfully analyze compromised systems, track attack timelines, and document security incidents - showing he can work with industry-standard digital forensics software."
+    },
+    {
+      "question": "What's Duy's background with web development?",
+      "answer": "Duy has solid full-stack web development experience, demonstrated through his award-winning Curve.ai project. He's proficient with modern technologies like Next.js for React development, Tailwind CSS for styling, and has backend experience with Flask and Python. His ability to create functional, production-ready applications sets him apart."
+    },
+    {
+      "question": "How does Duy perform under pressure?",
+      "answer": "Duy performs exceptionally well under pressure, as evidenced by his hackathon success where he delivered a winning project under tight deadlines. He also maintained 100% on-time delivery rates in his previous role by quickly troubleshooting issues as they arose. His CTF completion shows he can handle complex, time-sensitive technical challenges."
+    },
+    {
+      "question": "What's Duy's customer service experience?",
+      "answer": "Duy has excellent customer service skills, demonstrated by his 4.9-star rating while assisting over 100 customers daily at Ross Retail. He handled refunds and exchanges through clear communication and policy adherence, showing his ability to manage customer relationships professionally while maintaining high satisfaction levels."
+    },
+    {
+      "question": "Is Duy familiar with Google's technology stack?",
+      "answer": "Yes, Duy holds the Google IT Support Professional certification, which covers Google's approach to IT support, troubleshooting, and system administration. He's also proficient with Google Workspace, showing he can work effectively within Google's ecosystem of productivity and collaboration tools."
+    },
+    {
+      "question": "What programming projects has Duy completed?",
+      "answer": "Duy's most notable programming project is Curve.ai, an AI-powered learning platform that won 1st place at a competitive hackathon. He built this using Next.js, integrated Claude AI for dynamic content generation, and created features like mind maps and quizzes. His CS50 certification also indicates he's completed additional programming coursework and projects."
+    },
+    {
+      "question": "How does Duy approach learning new technologies?",
+      "answer": "Duy takes a hands-on, proactive approach to learning new tech. He keeps up with trends, tries out new tools whenever he can, and if he can’t access something, he’ll usually try to build it himself."
+    },
+    {
+      "question": "How does Duy handle technical challenges?",
+      "answer": "Duy approaches technical challenges with a systematic problem-solving mindset. He breaks down complex issues into smaller tasks, allowing him to stay organized and focused. His success in hackathons and CTFs demonstrates his ability to tackle difficult problems effectively under pressure."
+    },
+
+    {
+      "question": "Does Duy have experience with agile development?",
+      "answer": "While not explicitly stated, Duy's hackathon success suggests familiarity with agile principles. He organized the design process into proper stages, collaborated effectively with team members, and delivered a functional product under tight deadlines - all key aspects of agile development methodology."
+    },
+    {
+      "question": "What's Duy's strongest area of expertise?",
+      "answer": "Based on his achievements, Duy's strongest area appears to be cybersecurity and digital forensics. His CompTIA Security+ certification, successful CTF completion, and comprehensive understanding of threat detection and vulnerability management make him particularly strong in this domain, though his development skills are also impressive."
+    },
+    {
+      "question": "How does Duy handle documentation and reporting?",
+      "answer": "Duy excels at documentation, as demonstrated by his comprehensive forensic report that synthesized complex evidence into clear documentation of security incidents. His ability to compile detailed findings from his CTF work shows he understands the importance of thorough, professional documentation in IT operations."
+    },
+    {
+      "question": "What operating systems is Duy familiar with?",
+      "answer": "Duy has studied operating systems through his Year Up coursework and has practical experience with Windows systems through his forensic work. His technical projects and system administration training indicate he's comfortable working across different operating system environments."
+    },
+    {
+      "question": "Is Duy interested in AI and machine learning?",
+      "answer": "Absolutely! Duy demonstrated strong interest in AI by integrating Claude AI into his award-winning Curve.ai platform. Additionally, he constantly stay up-to-date with the latest AI trends and technologies, showing his enthusiasm for this rapidly evolving field."
+    },
+    {
+      "question": "What's unique about Duy's technical approach?",
+      "answer": "What makes Duy unique is his combination of security-focused analytical thinking with creative development skills. He can dive deep into forensic analysis to uncover hidden threats, but also build innovative AI-powered applications. This versatility between defensive cybersecurity and creative development is quite valuable."
+    },
+    {
+      "question": "How does Duy stay organized with complex projects?",
+      "answer": "Duy demonstrates strong organizational skills through his hackathon success, where he helped organize the design process into proper stages and created effective production plans. His ability to manage inventory and delivery operations with 100% accuracy also shows his systematic approach to complex workflows."
+    },
+    {
+      "question": "What's Duy's experience with vulnerability management?",
+      "answer": "Through his Security+ certification and forensic work, Duy has foundational knowledge in vulnerability management. His ability to analyze compromised systems and identify security weaknesses during his CTF challenge shows practical understanding of how vulnerabilities are discovered and assessed in real environments."
+    },
+    {
+      "question": "Is Duy ready for entry-level IT positions?",
+      "answer": "Absolutely! Duy has an excellent foundation with multiple industry certifications, hands-on project experience, and demonstrated problem-solving abilities. His upcoming six-month internship through Year Up will provide additional real-world experience, making him well-prepared for entry-level IT support, cybersecurity, or development roles."
+    }
+    
+  ]
+}

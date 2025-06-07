@@ -12,7 +12,7 @@ export const metadata = {
     template: "%s | Duy Nguyen",
   },
   description:
-    "Personal portfolio of Duy(Michael) Nguyen, showcasing projects, skills, and certifications in IT and Cybersecurity.",
+    "Personal portfolio of Duy Nguyen, showcasing projects, skills, and certifications in IT and Cybersecurity.",
   keywords: [
     "Duy Nguyen",
     "Michael Nguyen",
@@ -26,13 +26,9 @@ export const metadata = {
   authors: [{ name: "Duy Nguyen" }],
   creator: "Duy Nguyen",
   openGraph: {
-    title: "Duy - Portfolio",
+    title: "Duy Nguyen - Portfolio",
     description: "Explore the projects and skills of Duy Nguyen.",
-  },
-  icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-32x32.png",
-    apple: "/apple-touch-icon.png",
+    type: "website",
   },
 };
 

@@ -1,8 +1,8 @@
-"use client";
+"use client"
 
-import { useScrollToTop } from "@/hooks/use-scroll-to-top";
+import { useScrollToTop } from "@/hooks/use-scroll-to-top"
 
 export default function ScrollToTopHandler() {
-  useScrollToTop();
-  return null;
+  useScrollToTop()
+  return null
 }
