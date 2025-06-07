@@ -11,7 +11,6 @@
     {
       "question": "Why did Duy get into tech?",
       "answer": "From what I know about his background, Duy gravitated toward tech through his natural problem-solving abilities. In 2023, his younger brother needed a laptop for school, and Duy took the initiative to fix an old laptop from Microsoft that had been sitting unused for years, he was able to upgrade it's hardware and software allowing his brother to use it for school work and for gaming as well. This experience sparked his interest in technology, leading him to pursue a career in IT."
-
     },
     {
       "question": "Tell me about Duy's technical projects.",
@@ -161,7 +160,126 @@
     {
       "question": "Is Duy ready for entry-level IT positions?",
       "answer": "Absolutely! Duy has an excellent foundation with multiple industry certifications, hands-on project experience, and demonstrated problem-solving abilities. His upcoming six-month internship through Year Up will provide additional real-world experience, making him well-prepared for entry-level IT support, cybersecurity, or development roles."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React is a popular JavaScript library for building user interfaces, especially for web applications. Duy has a strong background in web development and finds coding and building websites calming and relaxing, which enhances his portfolio further. He created various projects using React, including building this very website you're visiting."
+    },
+    {
+      "question": "How has Duy used React?",
+      "answer": "Duy has extensive experience in web development and finds building websites both calming and portfolio-enhancing. He's created multiple projects using React, including the very website you're currently browsing."
+    },
+    {
+      "question": "What is Next.js?",
+      "answer": "Next.js is a React framework that provides additional features like server-side rendering and static site generation for building modern web applications. Duy stays current with the latest technology and has used Next.js in projects like Curve.ai, an AI-powered learning platform that earned 1st place out of 14 teams in a hackathon. He enjoys exploring modern web technologies and incorporating them into his side projects."
+    },
+    {
+      "question": "How has Duy used Next.js?",
+      "answer": "Duy stays current with cutting-edge technology and built Curve.ai using Next.js, an AI-powered learning platform that won 1st place out of 14 teams in a hackathon. He actively explores and incorporates modern web technologies into his side projects."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a versatile, high-level programming language known for its simplicity and readability, widely used in web development, data science, and automation. Duy loves Python and hones his skills often by practicing data structures and algorithms through LeetCode, a popular platform for developers. He has also developed InvestTrail, a simulated stock trading site built using the Flask framework, which is Python-heavy."
+    },
+    {
+      "question": "How has Duy used Python?",
+      "answer": "Duy loves Python and regularly sharpens his skills by practicing data structures and algorithms on LeetCode. He built InvestTrail, a simulated stock trading platform using Python's Flask framework, showcasing his full-stack development abilities."
+    },
+    {
+      "question": "What is Flask?",
+      "answer": "Flask is a lightweight Python web framework that allows developers to build web applications quickly and efficiently. Duy is experienced with Flask and used it to create InvestTrail, his simulated stock trading platform project. This project demonstrates his ability to build full-stack applications using Python and web development best practices."
+    },
+    {
+      "question": "How has Duy used Flask?",
+      "answer": "Duy leveraged Flask to create InvestTrail, his simulated stock trading platform. This project showcases his full-stack development skills and understanding of web application architecture."
+    },
+    {
+      "question": "What is PostgreSQL?",
+      "answer": "PostgreSQL is a powerful, open-source relational database management system known for its reliability and advanced features. During his time at Year Up United, Duy helped a fellow student learn SQL by walking her through setting up PostgreSQL and implementing it with a clone of a Twitch dashboard. This project showcases his database skills and is available in his GitHub repository."
+    },
+    {
+      "question": "How has Duy used PostgreSQL?",
+      "answer": "During his Year Up United program, Duy mentored a classmate by guiding her through PostgreSQL setup and implementation for a Twitch dashboard clone. This collaborative project demonstrates his database expertise and is featured in his GitHub repository."
+    },
+    {
+      "question": "What is SQLite?",
+      "answer": "SQLite is a lightweight, serverless database engine that's perfect for smaller applications and development projects. Duy has experience working with SQLite in various projects, particularly when building applications that need a simple but reliable database solution. His database knowledge spans multiple systems, allowing him to choose the right tool for each project's needs."
+    },
+    {
+      "question": "How has Duy used SQLite?",
+      "answer": "Duy has incorporated SQLite into various development projects where a lightweight database solution was needed. His multi-database expertise allows him to select the most appropriate database system for each project's specific requirements."
+    },
+    {
+      "question": "What is C?",
+      "answer": "C is a fundamental programming language that provides low-level access to system resources and is the foundation for many other programming languages. Duy has studied C programming as part of his comprehensive technical education, including completing CS50, Harvard's introduction to computer science course. This foundational knowledge helps him understand how computers work at a deeper level."
+    },
+    {
+      "question": "How has Duy used C?",
+      "answer": "Duy studied C programming through CS50, Harvard's renowned computer science course. This foundational experience gave him deep insights into how computers operate at the system level."
+    },
+    {
+      "question": "What is TypeScript?",
+      "answer": "TypeScript is a superset of JavaScript that adds static type definitions, helping developers catch errors and bugs during development. Duy considers TypeScript the better version of JavaScript and loves how it introduces the concept of types to track errors and bugs more effectively. He has gained experience with TypeScript through building projects such as phiser.ai, demonstrating his ability to work with modern, type-safe web development."
+    },
+    {
+      "question": "How has Duy used TypeScript?",
+      "answer": "Duy considers TypeScript superior to JavaScript and appreciates its type system for catching errors early in development. He's applied TypeScript in projects like phiser.ai, demonstrating his proficiency with type-safe web development."
+    },
+    {
+      "question": "What is Visual Studio Code?",
+      "answer": "Visual Studio Code is a popular, lightweight code editor developed by Microsoft that supports multiple programming languages and offers extensive customization through extensions. Duy has been using VS Code to develop his projects, taking advantage of its ability to download extensions and easily manage workspaces. It's his go-to development environment for coding and project management."
+    },
+    {
+      "question": "How has Duy used Visual Studio Code?",
+      "answer": "Duy relies on VS Code as his primary development environment, utilizing its extensive extension ecosystem and workspace management features. It's his go-to tool for coding and managing all his development projects."
+    },
+    {
+      "question": "What is Active Directory?",
+      "answer": "Active Directory is Microsoft's directory service that manages users, computers, and other resources in a Windows network environment. Duy is familiar with AD, especially through hands-on labs such as Try Hack Me Active Directory Basics. He even helped his classmates learn by drawing diagrams and helping them understand the structure of AD DS (Active Directory Domain Services)."
+    },
+    {
+      "question": "How has Duy used Active Directory?",
+      "answer": "Duy gained hands-on Active Directory experience through Try Hack Me labs and became a peer mentor, creating diagrams and explaining AD DS structure to help classmates understand the technology. His teaching approach demonstrates both technical knowledge and leadership skills."
+    },
+    {
+      "question": "What is Azure Portal?",
+      "answer": "Azure Portal is Microsoft's web-based interface for managing Azure cloud services and resources. Duy is currently studying for the AZ-104 Azure Administrator certification, where he gets hands-on practice using the portal to deploy resources and virtual machines. This demonstrates his commitment to staying current with cloud technologies and enterprise-level infrastructure management."
+    },
+    {
+      "question": "How has Duy used Azure Portal?",
+      "answer": "Duy is actively preparing for his AZ-104 Azure Administrator certification, gaining practical experience deploying resources and managing virtual machines through the portal. This hands-on cloud training shows his commitment to enterprise-level infrastructure skills."
+    },
+    {
+      "question": "What is GitHub?",
+      "answer": "GitHub is a web-based platform for version control and collaborative software development, serving as a repository for code projects. GitHub is the home of Duy's projects, where he showcases his development work and maintains his code repositories. It serves as a central hub for his technical portfolio and demonstrates his ability to manage and share code professionally."
+    },
+    {
+      "question": "How has Duy used GitHub?",
+      "answer": "GitHub serves as the central hub for Duy's technical portfolio, where he maintains and showcases all his development projects. He uses it to demonstrate professional code management and version control practices."
+    },
+    {
+      "question": "What is Windows?",
+      "answer": "Windows is Microsoft's operating system that powers millions of computers worldwide and is essential for many business environments. Duy is familiar with Windows and currently uses his Windows laptop to explore tools like Active Directory, Process Monitor, and PowerShell. This hands-on experience with Windows administration tools complements his IT support and cybersecurity training."
+    },
+    {
+      "question": "How has Duy used Windows?",
+      "answer": "Duy uses his Windows laptop to explore system administration tools including Active Directory, Process Monitor, and PowerShell. This practical experience supports his IT support and cybersecurity skill development."
+    },
+    {
+      "question": "What is Linux?",
+      "answer": "Linux is an open-source operating system known for its stability, security, and flexibility, widely used in servers and development environments. Duy has an Ubuntu Linux machine installed on his Virtual Machine on Mac to learn about Linux file systems and complete hands-on labs with Try Hack Me learning platform. This experience demonstrates his versatility across different operating systems and his commitment to comprehensive technical learning."
+    },
+    {
+      "question": "How has Duy used Linux?",
+      "answer": "Duy runs Ubuntu Linux on a virtual machine to explore file systems and complete Try Hack Me cybersecurity labs. This setup demonstrates his multi-platform expertise and dedication to comprehensive technical learning."
+    },
+    {
+      "question": "What is macOS?",
+      "answer": "macOS is Apple's operating system for Mac computers, known for its user-friendly interface and seamless integration with other Apple devices. Duy currently uses his Mac as his daily driver, handling tasks such as Zoom calls and developing projects. His Mac serves as his primary development machine, showcasing his ability to work effectively across different operating system environments."
+    },
+    {
+      "question": "How has Duy used macOS?",
+      "answer": "Duy uses his Mac as his daily driver for professional tasks including Zoom calls and project development. It serves as his primary development machine, highlighting his cross-platform technical versatility."
     }
-    
   ]
 }
