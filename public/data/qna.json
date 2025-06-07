@@ -280,6 +280,86 @@
     {
       "question": "How has Duy used macOS?",
       "answer": "Duy uses his Mac as his daily driver for professional tasks including Zoom calls and project development. It serves as his primary development machine, highlighting his cross-platform technical versatility."
+    },
+    {
+      "question": "Tell me more about React",
+      "answer": "React is a popular JavaScript library for building user interfaces, especially for web applications. Duy has a strong background in web development and finds coding and building websites calming and relaxing, which enhances his portfolio further. He created various projects using React, including building this very website you're visiting."
+    },
+    {
+      "question": "Tell me more about Next.js",
+      "answer": "Duy embraces Next.js as part of his commitment to staying current with cutting-edge web technologies. His standout project, creating me, utilizing groq AI for a dynamic assitant, being able to answer questions about his portfolio."
+    },
+    {
+      "question": "Tell me more about Python",
+      "answer": "Python holds a special place in Duy's programming journey - he genuinely loves the language and dedicates time to mastering it through LeetCode challenges. His most substantial Python project, InvestTrail, showcases his ability to build complex financial applications using Flask, demonstrating both backend development skills and domain knowledge."
+    },
+    {
+      "question": "Tell me more about Flask",
+      "answer": "Duy chose Flask as the backbone for InvestTrail, his simulated stock trading platform, appreciating its lightweight yet powerful approach to web development. This project represents his understanding of full-stack architecture and his ability to create functional financial applications from concept to deployment."
+    },
+    {
+      "question": "Tell me more about PostgreSQL",
+      "answer": "Duy's PostgreSQL experience goes beyond personal projects - he became a mentor during his Year Up program, patiently guiding a classmate through database setup and implementation for a Twitch dashboard clone. This teaching experience, documented in his GitHub, shows both his technical competence and collaborative leadership style."
+    },
+    {
+      "question": "Tell me more about SQLite",
+      "answer": "Duy strategically uses SQLite for projects requiring lightweight database solutions, demonstrating his understanding that different projects call for different database architectures. His multi-database fluency allows him to make informed decisions about data storage based on project scale and requirements."
+    },
+    {
+      "question": "Tell me more about C",
+      "answer": "Duy's C programming foundation comes from completing Harvard's prestigious CS50 course, which gave him deep insights into low-level programming concepts. This foundational knowledge helps him understand computer systems at a fundamental level, making him a more well-rounded developer across all languages."
+    },
+    {
+      "question": "Tell me more about TypeScript",
+      "answer": "Duy is passionate about TypeScript, calling it the superior version of JavaScript due to its type safety features that help catch bugs during development. He's applied this philosophy in projects like phiser.ai, where the type system's error-catching capabilities were crucial for building reliable, maintainable code."
+    },
+    {
+      "question": "Tell me more about Visual Studio Code",
+      "answer": "VS Code serves as Duy's command center for all development work, where he leverages its rich extension ecosystem and intuitive workspace management. He's customized his setup to maximize productivity across different programming languages and project types, making it his indispensable coding companion."
+    },
+    {
+      "question": "Tell me more about Active Directory",
+      "answer": "Duy's Active Directory expertise shines through his mentoring approach - he creates visual diagrams and breaks down complex AD DS concepts to help classmates understand enterprise directory services. His hands-on experience with Try Hack Me labs combined with his teaching ability shows both technical depth and communication skills."
+    },
+    {
+      "question": "Tell me more about Azure Portal",
+      "answer": "Duy is actively pursuing his AZ-104 Azure Administrator certification, gaining practical experience deploying cloud resources and managing virtual machines through the portal. This ongoing certification journey demonstrates his commitment to enterprise cloud technologies and modern infrastructure management."
+    },
+    {
+      "question": "Tell me more about GitHub",
+      "answer": "GitHub represents Duy's professional development portfolio, serving as the central repository where he showcases code quality, project documentation, and version control practices. It's where potential collaborators and employers can see his coding standards and project evolution over time."
+    },
+    {
+      "question": "Tell me more about Windows",
+      "answer": "Duy's Windows expertise comes from hands-on exploration of system administration tools including Active Directory, Process Monitor, and PowerShell on his dedicated Windows laptop. This practical approach to learning Windows administration complements his IT support training and cybersecurity focus."
+    },
+    {
+      "question": "Tell me more about Linux",
+      "answer": "Duy runs Ubuntu Linux in a virtual machine on his Mac, creating a dedicated environment for exploring file systems and completing cybersecurity labs on Try Hack Me. This setup demonstrates his commitment to understanding multiple operating systems and his methodical approach to technical learning."
+    },
+    {
+      "question": "Tell me more about macOS",
+      "answer": "Duy's Mac serves as his primary development machine and daily driver, handling everything from professional video calls to complex development projects. This choice showcases his ability to work efficiently across different operating systems while maintaining a productive development workflow."
+    },
+    {
+      "question": "What are you?",
+      "answer": "I'm Mily, Duy's assistant. I'm here to answer any questions you have about Duy."
+    },
+    {
+      "question": "What is this?",
+      "answer": "Let me introduce myself again, I'm Mily, Duy's assistant. I'm here to answer any questions you have about Duy, ask me anything."
+    },
+    {
+      "question": "How can I reach/contact Duy?",
+      "answer": "You can navigate to the bottom of the home page, or click on the mail icon and send Duy a message regarding your request."
+    },
+    {
+      "question": "Can I get Duy's resume?",
+      "answer": "You can navigate to the bottom of the home page, or click on the mail icon and send Duy a message regarding your request."
+    },
+    {
+      "question": "What is Duy's email?",
+      "answer": "You can navigate to the bottom of the home page, or click on the mail icon and send Duy a message regarding your request."
     }
   ]
 }
